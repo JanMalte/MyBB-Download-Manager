@@ -1,0 +1,3 @@
+Sampel file for the "Download Manager" plugin. A plugin for the MyBB
+
+Beispieldatei für das "Download Manager" Plugin. Ein Plugin für das MyBB
